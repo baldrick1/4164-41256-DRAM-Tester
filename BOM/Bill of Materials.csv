@@ -1,0 +1,11 @@
+Part,Part Number,Description,Value,Suplier
+A1,Arduino Nano v3.0,Arduino Nano v3.0,-,Arduino.cc
+ZIF Socket1,216-3340-00-0602J ,Zif Socket 16 pin DIP,-,Digikey
+J1,PJ-002A,Power Jack,2mm X 5.5mm,Digikey
+LED1,MT4118-HR-A,Red LED,5mm round,Digikey
+LED2,MT2118-G-A,Green LED,5mm round,Digikey
+R1,470QBK-ND,Resistor,470 ohm,Digikey
+R2,470QBK-ND,Resistor,470 ohm,Digikey
+R3,1.0KQBK-ND,Resistor,1.0k ohm,Digikey
+SW1,PVA1EEH1,Pushbutton,Momentary DPST,Mouser
+SW1CAP,611-PVBK,Cap for PB,Black,Mouser
